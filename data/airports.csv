@@ -30497,7 +30497,7 @@
 351149,"HZU","medium_airport","Chengdu Huaizhou Airport",30.677339,104.529397,1453,"AS","CN","CN-51","Chengdu (Jintang)","no",,"HZU",,,,"https://zh.wikipedia.org/wiki/%E6%88%90%E9%83%BD%E6%B7%AE%E5%B7%9E%E6%9C%BA%E5%9C%BA",
 17661,"I04","seaplane_base","Quad-City Seaplane Base",41.459999084472656,-90.4928970336914,560,"NA","US","US-IL","Moline","no",,,"I04","I04",,,
 17662,"I08","small_airport","Cabin Creek US Forest Service Airport",45.143501,-114.929001,4289,"NA","US","US-ID","Big Creek Ranger Station","no",,,"I08","I08",,"https://en.wikipedia.org/wiki/Cabin_Creek_USFS_Airport",
-20124,"I19","small_airport","Greene County/Lewis A. Jackson Regional Airport",39.690807,-83.992585,949,"NA","US","US-OH","Dayton","no",,,"KGDK","GDK","http://www.i19airport.com/",,"I19, Xenia"
+20124,"KGDK","small_airport","Greene County/Lewis A. Jackson Regional Airport",39.690807,-83.992585,949,"NA","US","US-OH","Dayton","no",,,"KGDK","GDK","http://www.i19airport.com/",,"I19, Xenia"
 17664,"I27","small_airport","Elkader Airport",42.846900939941406,-91.38069915771484,932,"NA","US","US-IA","Elkader","no",,,"I27","I27",,,
 17667,"I41","small_airport","Robert Newlon Field",38.457000732421875,-82.31379699707031,550,"NA","US","US-WV","Huntington","no",,,"I41","I41",,,
 17668,"I42","small_airport","Paoli Municipal Airport",38.584471,-86.465149,817,"NA","US","US-IN","Paoli","no",,,"KI42","I42",,"https://en.wikipedia.org/wiki/Paoli_Municipal_Airport",
@@ -39032,7 +39032,7 @@
 20128,"KI35","small_airport","Tucker Guthrie Memorial Airport",36.859352,-83.358523,1551,"NA","US","US-KY","Baxter","no",,,"KI35","I35",,,"Harlan"
 20129,"KI39","medium_airport","Central Kentucky Regional Airport",37.630798,-84.332298,1002,"NA","US","US-KY","Richmond","no",,,"KRGA","RGA",,"https://en.wikipedia.org/wiki/Central_Kentucky_Regional_Airport","I39, Madison"
 20130,"KI40","small_airport","Richard Downing Airport",40.3092,-81.853401,979,"NA","US","US-OH","Coshocton","no",,,"I40","I40",,"https://en.wikipedia.org/wiki/Richard_Downing_Airport",
-20131,"KI43","small_airport","James A Rhodes Airport",38.9814,-82.577904,726,"NA","US","US-OH","Jackson","no",,,"KJRO","JRO",,"https://en.wikipedia.org/wiki/James_A._Rhodes_Airport","I43"
+20131,"KJRO","small_airport","James A Rhodes Airport",38.9814,-82.577904,726,"NA","US","US-OH","Jackson","no",,,"KJRO","JRO",,"https://en.wikipedia.org/wiki/James_A._Rhodes_Airport","I43"
 20132,"KI50","small_airport","Stanton Airport",37.849866,-83.845704,651,"NA","US","US-KY","Stanton","no",,,"KI50","I50",,"https://en.wikipedia.org/wiki/Stanton_Airport",
 20133,"KI53","small_airport","Liberty-Casey County Airport",37.308691,-85.059304,1040,"NA","US","US-KY","Liberty","no",,,"53KT","53KT",,,"I53"
 20134,"KI54","small_airport","Mad River Airpark",40.0201,-83.828499,958,"NA","US","US-OH","Tremont City","no",,,,"I54",,"https://en.wikipedia.org/wiki/Mad_River_Airport","Mad River Inc Airport"
