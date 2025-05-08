@@ -17,6 +17,7 @@ setup(
     name='cateorical-sectional',
     version='2.2.1',
     python_requires='>=3.7',
+    py_modules=[],
     description='VFR weathermap supporting Adafruit WS2801 lights.',
     url='https://github.com/JohnMarzulli/categorical-sectional',
     author='John Marzulli',
